@@ -1,5 +1,5 @@
-from CRS04_01.PotentialField import PotentialField
-from CRS04_01.RobotMovement import RobotMovement
+from PotentialField import PotentialField
+from RobotMovement import RobotMovement
 
 def main():
     # Create an instance of PotentialField

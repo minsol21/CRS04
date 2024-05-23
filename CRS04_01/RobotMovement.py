@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from CRS04_01.PotentialField import PotentialField
+from PotentialField import PotentialField
 
 class RobotMovement:
     def __init__(self, potential_field: PotentialField):
