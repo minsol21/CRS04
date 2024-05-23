@@ -10,14 +10,23 @@ This repository hosts our group's submission for Task Sheet 4 of Collective robo
 ## Directory Structure
 
 project_directory/
+
 ├── CRS04_01
+
 │ ├── PotentialField.py
+
 │ ├── RobotMovement.py
+
 │ ├── RobotMovement2.py
+
 │ └── main.py
+
 ├── CRS04_02_a
+
 ├── CRS04_02_b
+
 ├── CRS04_02_c
+
 └── README.md
 
 
