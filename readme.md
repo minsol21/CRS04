@@ -1,6 +1,11 @@
-# Project Directory: CRS04_01
+# CRS04 Exercise
 
-This project contains implementations for CRS04 assignment. The project directory is organized as follows:
+## Team Members
+- **Minsol Kim**
+- **BhargavSolanki**
+
+## Overview
+This repository hosts our group's submission for Task Sheet 4 of Collective robotics and scalability.
 
 ## Directory Structure
 
